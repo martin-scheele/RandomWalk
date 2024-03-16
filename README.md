@@ -6,8 +6,6 @@ Unit project for CSC-239 - JAVA Programming, Spring 2024
 
 Retroactive upload
 
----
-
 ## Notes
 ---
 This program structure feels overcomplicated, messy, and unintuitive. 
